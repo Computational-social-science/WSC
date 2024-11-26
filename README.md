@@ -8,5 +8,6 @@
     替换semantic_uncertainty/semantic_uncertainty/uncertainty/models/huggingface_models.py
 
 3.plot
+    替换shap库中的force_matplotlib.py
 
 4.rollback
