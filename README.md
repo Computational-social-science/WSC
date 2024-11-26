@@ -1,6 +1,11 @@
 # WSC
 
-执行WSC/dataset/gen_dataset.ipynb 1.1部分,获得jfleg与jfleg_corrected
-执行WSC/SHAP/plot.ipynb，获取jfleg_data_all.xlsx与可视化结果以及阈值
-执行WSC/dataset/gen_dataset.ipynb 1.2部分,填入阈值,获得jfleg_rollback
-111
+1.data process
+
+2.x
+clone https://github.com/jlko/semantic_uncertainty
+替换semantic_uncertainty/semantic_uncertainty/uncertainty/models/huggingface_models.py
+
+3.plot
+
+4.rollback
